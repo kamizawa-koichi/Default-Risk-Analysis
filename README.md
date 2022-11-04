@@ -1,6 +1,5 @@
 # Default-Risk-Analysis
-## Signate　債務不履行リスクの低減
-
+Signate　債務不履行リスクの低減
 https://signate.jp/competitions/743
 
 概要  
